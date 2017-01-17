@@ -22,16 +22,17 @@
     "@angular/core": "^2.4.1",
     "@angular/forms": "^2.4.1",
     "@angular/http": "^2.4.1",
+    "@angular/material": "^2.0.0-beta.1",
     "@angular/platform-browser": "^2.4.1",
     "@angular/platform-browser-dynamic": "^2.4.1",
     "@angular/router": "^3.4.1",
+    "@types/core-js": "^0.9.34",
     "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
     "jquery": "^2.2.4",
     "reflect-metadata": "^0.1.8",
     "rxjs": "5.0.1",
-    "zone.js": "^0.7.4",
-    "@types/core-js": "^0.9.34"
+    "zone.js": "^0.7.4"
   },
   "devDependencies": {
     "@types/jasmine": "^2.5.35",
@@ -59,6 +60,10 @@
     "systemjs-builder": "^0.15.33",
     "tslint": "^3.13.0",
     "typescript": "^2.0.3"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/evidentti/Angular.git"
   },
   "license": "MIT"
 }
