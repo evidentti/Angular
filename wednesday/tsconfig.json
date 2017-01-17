@@ -8,8 +8,16 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
-    "typeRoots": [ "./node_modules/@types" ],
-    "types": [ "jasmine", "node", "core-js", "protractor"]
+    "typeRoots": [
+      "./node_modules/@types"
+    ],
+    "types": [
+      "jasmine",
+      "node",
+      "core-js",
+      "protractor",
+      "hammerjs"
+    ]
   },
   "exclude": [
     "node_modules"
