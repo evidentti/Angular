@@ -1,3 +1,2 @@
 # Angular
 For learning
-yes
