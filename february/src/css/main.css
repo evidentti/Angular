@@ -1,3 +1,6 @@
+/*@import '~https://fonts.googleapis.com/icon?family=Material+Icons';
+@import '~@angular/material/core/theming/prebuilt/deeppurple-amber.css';*/
+
 body {
     font-family: Cambria, Georgia;
 }
@@ -20,17 +23,20 @@ a:hover {
     text-decoration: underline;
 }
 
-.header-container, .main-container, .footer-container {
-    width: 700px;
+.header-container,
+.main-container,
+.footer-container {
+    width: 80vw;
     margin: 0 auto;
 }
 
 .main-container {
     margin-bottom: 20px;
-    box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
 }
 
-.main-container .resource, .main-container h3 {
+.main-container .resource,
+.main-container h3 {
     padding: 16px 23px;
 }
 
