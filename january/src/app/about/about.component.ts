@@ -6,4 +6,8 @@ import {Component} from '@angular/core';
 })
 
 export class AboutComponent {
+
+    clicked(msg: string) {
+        console.debug(msg, 'clicked');
+    }
 }
