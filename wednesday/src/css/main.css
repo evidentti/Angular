@@ -27,7 +27,7 @@ a:hover {
 .header-container,
 .main-container,
 .footer-container {
-    width: 700px;
+    width: 90vw;
     margin: 0 auto;
 }
 

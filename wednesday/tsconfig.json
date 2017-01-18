@@ -19,7 +19,7 @@
       "hammerjs"
     ]
   },
-  "files": [ "manual-typings/zone.js.d.ts"],
+  // "files": [ "manual-typings/zone.js.d.ts"],
   "exclude": [
     "node_modules"
   ]
